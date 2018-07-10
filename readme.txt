@@ -6,3 +6,5 @@ Create a remote repository.
 Create a new branch is quick and simple.
 there is no fast forward.
 fix 102 bug.
+no fast forward.
+there is a bug.

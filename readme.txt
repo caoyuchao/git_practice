@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Create a remote repository.
 Create a new branch is quick and simple.
-no fast forward.
+there is no fast forward.
